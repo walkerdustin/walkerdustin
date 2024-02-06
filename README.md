@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on a svelte-kit web app for my startup.<br>👯 I’m looking to collaborate on new exciting machine-learning projects.<br>🤝 I’m looking for help with networking.<br>🌱 I’m currently learning web technologies (Full Stack).<br>💬 Ask me about my mechatronics and IOT projects, improving my work and sleep.<br>⚡ Fun fact: My coffee machine automatically activates when my alarm rings. <br>      Because I'd rather spend 2 days automating than spend 5 seconds pressing a Button each morning 😄.
+🔭 I’m currently working on becoming an expert in powering Applications with Generative AI<br>
+👯 I’m looking to collaborate on research on how to use Large Language Models.<br>
+🤝 I’m looking for help with networking.<br>
+🌱 I’m currently learning how to integrate Generative AI in Applications<br>
+💬 Ask me about my mechatronics and IOT projects, improving my work and sleep.<br>
+⚡ Fun fact: My coffee machine automatically activates when my alarm rings. <br>      
+Because I'd rather spend 2 days automating than spend 5 seconds pressing a Button each morning 😄.
 
 
 ## 🌐 Socials:
@@ -28,6 +34,7 @@ _Backend_
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
 _Machine Learning:_  
+[Ollama](https://img.shields.io/badge/Ollama)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
