@@ -4,7 +4,7 @@
 🤝 I’m looking for help with networking.<br>
 🌱 I’m currently learning how to integrate Generative AI in Applications<br>
 💬 Ask me about my mechatronics and IOT projects, improving my work and sleep.<br>
-⚡ Fun fact: My coffee machine automatically activates when my alarm rings. <br>      
+⚡ Fun fact: A microcontroller (ESP32) activates my 3.5 meter desk lamp every time my alarm rings in the morning, to gently wake me up. <br>      
 Because I'd rather spend 2 days automating than spend 5 seconds pressing a Button each morning 😄.
 
 
